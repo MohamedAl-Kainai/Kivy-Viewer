@@ -11,11 +11,18 @@ pip3 install --upgrade pip
 python3 setup.py
 ```
 ___
-### How to use ?
 <center>
+<h3> How to use ? </h3>
 <video controls  width="340" height="190">
 
     <source src="https://player.vimeo.com/video/445856921">
     Sorry, your browser doesn't support embedded videos.
 </video>
-</center>
+<center>
+<!-- <center>
+<video controls  width="340" height="190">
+
+    <source src="https://player.vimeo.com/video/445856921">
+    Sorry, your browser doesn't support embedded videos.
+</video>
+</center> -->
