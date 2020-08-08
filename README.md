@@ -11,10 +11,12 @@ pip3 install --upgrade pip
 python3 setup.py
 ```
 ___
-<div style="text-align:center"><h3> How to use ? </h3></div>
-<p align="center">
-  <img src="https://player.vimeo.com/video/445856921" />
+
+### How to use ?
+<p align='center'>
+<a href="https://player.vimeo.com/video/445856921"><img src="https://i.imgur.com/vKb2F1B.png"></a>
 </p>
+
 <!-- <center>
 <video controls  width="340" height="190">
 
