@@ -8,7 +8,7 @@ Simple kivymd and kivy ( auto-kivy-language-viewer )
 ```bash
 apt-get install python3-pip
 pip3 install --upgrade pip
-python3 setup.py
+sudo python3 setup.py
 ```
 ___
 
