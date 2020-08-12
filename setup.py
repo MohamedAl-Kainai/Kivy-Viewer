@@ -11,14 +11,14 @@ class installer:
         os.system('sudo pip3 install -r requirements.txt')
 
     def move_to_bin(self):
-        with open('Kivymd-Viewer','r') as file:
+        with open('Kivy-Viewer','r') as file:
             file = file.read()
 
-        with open('/usr/bin/Kivymd-Viewer','w') as bin:
+        with open('/usr/bin/Kivy-Viewer','w') as bin:
             bin.write(file)
 
         # permission XXX
-        os.system('chmod 777 /usr/bin/Kivymd-Viewer')
+        os.system('chmod 777 /usr/bin/Kivy-Viewer')
 
 if __name__=='__main__':
     install = installer()
