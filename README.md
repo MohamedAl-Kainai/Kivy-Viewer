@@ -19,7 +19,7 @@ ___
 </p>
 
 <!-- <center>
-<video controls  width="340" height="190">
+<video controls  width="340" height="150">
 
     <source src="https://player.vimeo.com/video/445856921">
     Sorry, your browser doesn't support embedded videos.
